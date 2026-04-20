@@ -221,14 +221,6 @@ Paper trading should be fully validated in staging before any live trading suppo
 
 ## Implementation Phases
 
-### Phase 0: Architecture and contracts
-- Finalize MVP scope
-- Define tenancy model
-- Define strategy JSON schema
-- Define core database entities
-- Define provider abstraction for market data and broker APIs
-- Establish deployment and secrets strategy
-
 ### Phase 1: Platform foundation
 - Set up Django, DRF, Postgres, Redis, Celery
 - Set up React frontend with auth shell

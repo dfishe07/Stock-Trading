@@ -1,0 +1,22 @@
+.DS_Store
+.env
+.env.local
+.venv/
+__pycache__/
+*.py[cod]
+*.sqlite3
+.pytest_cache/
+.mypy_cache/
+dist/
+build/
+node_modules/
+coverage/
+htmlcov/
+backend/staticfiles/
+backend/media/
+backend/celerybeat-schedule
+*.tsbuildinfo
+frontend/vite.config.js
+frontend/vite.config.d.ts
+frontend/vite.config 2.js
+frontend/vite.config.d 2.ts
